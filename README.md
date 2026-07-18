@@ -37,3 +37,11 @@ src/ - reusable code (future work)
 ## Next Steps
 - Network analysis of ingredient co-occurrence
 - Interactive geographic visualization
+
+## Results
+
+### Ingredient Frequency by Cuisine
+![Top ingredients by cuisine](images/top_ingredients_by_cuisine.png)
+
+### Cuisine Similarity Heatmap
+![Cuisine similarity heatmap](images/cuisine_similarity_heatmap.png)
