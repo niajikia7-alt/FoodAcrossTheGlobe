@@ -45,3 +45,11 @@ src/ - reusable code (future work)
 
 ### Cuisine Similarity Heatmap
 ![Cuisine similarity heatmap](images/cuisine_similarity_heatmap.png)
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+Then place the raw dataset CSV in `data/raw/` (see Dataset section above for source).
